@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<animales>
+    <animal>
+        <especie>fsed</especie>
+        <raza>ewr</raza>
+        <edad>12</edad>
+        <color>erw</color>
+    </animal>
+    <animal>
+        <especie>dfsdf</especie>
+        <raza>fdsf</raza>
+        <edad>12</edad>
+        <color>dfs</color>
+    </animal>
+    <animal>
+        <especie>fsed</especie>
+        <raza>ewr</raza>
+        <edad>12</edad>
+        <color>erw</color>
+    </animal>
+    <animal>
+        <especie>dfsdf</especie>
+        <raza>fdsf</raza>
+        <edad>12</edad>
+        <color>dfs</color>
+    </animal>
+</animales>
